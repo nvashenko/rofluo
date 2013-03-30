@@ -1,5 +1,5 @@
-name = Ipex
-description = Ipex theme
+name = ROFLUO
+description = ROFLUO theme
 core = 7.x
 engine = phptemplate
 plugins[panels][layouts] = layout
