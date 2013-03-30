@@ -1,0 +1,36 @@
+.row{
+  width: 100%;
+  margin-top: 15px;
+}
+.column{
+  width: 48%;
+  float: left;
+  margin-right: 1%;
+}
+.clear{
+  clear: both;
+  display: inline-block;
+}
+
+.col-30{
+  width: 29%;
+}
+
+.last {
+  margin: 0;
+}
+.col-70{
+  width: 69%;
+}
+.col-50{
+  width: 49%;
+}
+.col-20{
+  width: 20%;
+}
+.left{
+  float: left;
+}
+.right{
+  float: right;
+}

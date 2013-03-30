@@ -1,0 +1,13 @@
+name = Ipex
+description = Ipex theme
+core = 7.x
+engine = phptemplate
+plugins[panels][layouts] = layout
+stylesheets[all][] = /css/style.css
+stylesheets[all][] = /css/custom.css
+
+scripts[] = js/jquery.featureCarousel.min.js
+scripts[] = js/custom-form-elements.js
+scripts[] = js/jquery.jcarousel.min.js
+scripts[] = js/_init.js
+scripts[] = js/custom.js

@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/sites/all/themes/rofluo/layout/master-burge/master-burge.tpl.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sites/all/themes/rofluo/layout/master/master.tpl.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sites/all/themes/rofluo/template.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sites/all/themes/rofluo/templates/view-modes/node--news--teaser.tpl.php" charset="UTF-8" />
+  </component>
 </project>
 

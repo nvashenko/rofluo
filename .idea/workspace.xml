@@ -2,14 +2,138 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ea541d9-35c2-4225-8fc7-b54ab5af1153" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/rofluo.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/slice/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/about-exchenge-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/about-shadow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/ad-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/ad-cover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/arrow-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/arrow-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/avatar-placeholder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/bg-header.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/bootom-slider-arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/burge-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/contact-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/cup-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/custom-check.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/custom-radio.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/custom-select.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/expand-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/featured-videos.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/li-even.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/li-odd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/list-marker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/main-menu-bg-active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/main-menu-bg-border.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/main-menu-bg-hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/main-menu-bg-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/main-menu-bg-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/main-menu-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/more-btn-bg-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/more-btn-bg-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/more.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/not-last-deal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/quote-arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/quote-arrow2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/quote.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/quote2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/search-btn-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/shadow-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/slide-border-bg-test.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/slide-border-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/slider-arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/slider.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/tm-btn-bg-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/tm-btn-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/tm-buttons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/images/ul-blue-check-li.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/layout/front/front.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/layout/master-burge/master-burge.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/layout/master/master.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/layout/one-col/one-col.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/layout/two-col/two-col.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/screenshot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/css/custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/css/style-ie7.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/css/style-ie8.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/css/style-ie9.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/ipex.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/js/_init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/js/custom-form-elements.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/js/custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/js/jquery-1.7.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/js/jquery.featureCarousel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/js/jquery.jcarousel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/js/jquery.pngFix.pack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/layout/front/front-admin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/layout/front/front-admin.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/layout/front/front.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/layout/front/front.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/layout/master-burge/master-burge-admin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/layout/master-burge/master-burge-admin.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/layout/master-burge/master-burge.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/layout/master-burge/master-burge.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/layout/master/master-admin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/layout/master/master-admin.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/layout/master/master.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/layout/master/master.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/layout/one-col/one-col-admin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/layout/one-col/one-col-admin.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/layout/one-col/one-col.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/layout/one-col/one-col.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/layout/two-col/two-col-admin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/layout/two-col/two-col-admin.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/layout/two-col/two-col.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/layout/two-col/two-col.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/template.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/templates/assets/asset--free-html.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/templates/assets/asset--image.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/templates/assets/asset--video.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/templates/assets/asset-wrapper.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/templates/comment-wrapper.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/templates/comment.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/templates/fields/field--field-image.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/templates/fields/field.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/templates/forms/user-register-form.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/templates/node.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/templates/panes/panels-pane--homepage--homepage.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/templates/panes/panels-pane--views-panes--news-news-pane.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/templates/panes/panels-pane--views-panes.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/templates/panes/panels-pane.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/templates/rate-template-thumbs-up.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/templates/search-block-form.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/templates/view-modes/comment--block.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/templates/view-modes/node--article--full.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/templates/view-modes/node--article--key-directions-teaser.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/templates/view-modes/node--bright_deal--not-last-deal-block.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/templates/view-modes/node--news--full.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/templates/view-modes/node--news--teaser.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/templates/view-modes/node--page--full.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/templates/view-modes/node--partners--teaser.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/templates/view-modes/node--product--teaser.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/templates/view-modes/node--slideshow--full.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/templates/views/Partners/views-view--clients--panel-pane-2.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/templates/views/Partners/views-view-unformatted--clients--panel-pane-2.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/templates/views/bright-deals/not-last-deal/views-view--not-last-deal--panel-pane-1.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/templates/views/bright-deals/not-last-deal/views-view-unformatted--not-last-deal--panel-pane-1.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/templates/views/clients/views-view--clients--panel-pane-1.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/templates/views/clients/views-view-unformatted--clients--panel-pane-1.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/templates/views/comments/comment-block/views-view--comments--comment.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/templates/views/comments/comment-block/views-view-unformatted--comments--comment.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/templates/views/key-directions/views-view--key-directions--panel-pane-1.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/templates/views/key-directions/views-view-unformatted--key-directions--panel-pane-1.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/templates/views/news/views-view--news--news-pane.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/templates/views/news/views-view-unformatted--news--news-pane.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/templates/views/products/views-view--burge--panel-pane-1.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/templates/views/products/views-view-unformatted--burge--panel-pane-1.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/templates/views/slideshow/views-view--slideshow--panel-pane-1.tpl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/templates/views/slideshow/views-view-unformatted--slideshow--panel-pane-1.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sites/all/themes/rofluo/slice/index.html" afterPath="$PROJECT_DIR$/sites/all/themes/rofluo/slice/index.html" />
     </list>
     <ignored path="rufluo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,10 +153,82 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="174" selection-end="174" vertical-scroll-proportion="0.1056338">
+            <state line="6" column="0" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/rofluo/slice/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="0" selection-start="489" selection-end="489" vertical-scroll-proportion="-6.25">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style-ie7.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/rofluo/css/style-ie7.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="master.tpl.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/rofluo/layout/master/master.tpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="6" selection-start="452" selection-end="452" vertical-scroll-proportion="0.19927536">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="front.tpl.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/rofluo/layout/front/front.tpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="6" selection-start="210" selection-end="210" vertical-scroll-proportion="-3.75">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/rofluo/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style-ie9.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/rofluo/css/style-ie9.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style-ie8.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/rofluo/css/style-ie8.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/all/themes/rofluo/css/custom.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -52,6 +248,14 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/sites/all/themes/rofluo/css/style.css" />
+        <option value="$PROJECT_DIR$/sites/all/themes/rofluo/css/style-ie9.css" />
+        <option value="$PROJECT_DIR$/sites/all/themes/rofluo/css/style-ie8.css" />
+        <option value="$PROJECT_DIR$/sites/all/themes/rofluo/css/custom.css" />
+        <option value="$PROJECT_DIR$/sites/all/themes/rofluo/css/style-ie7.css" />
+        <option value="$PROJECT_DIR$/sites/all/themes/rofluo/slice/index.html" />
+        <option value="$PROJECT_DIR$/sites/all/themes/rofluo/layout/front/front.tpl.php" />
+        <option value="$PROJECT_DIR$/sites/all/themes/rofluo/layout/master/master.tpl.php" />
       </list>
     </option>
   </component>
@@ -104,6 +308,210 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rufluo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rufluo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rufluo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rufluo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rufluo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rufluo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rofluo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rufluo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rufluo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rofluo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="slice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rufluo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rufluo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rofluo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rufluo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rufluo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rofluo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="front" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rufluo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rufluo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rofluo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rufluo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rufluo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sites" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -115,6 +523,22 @@
     <property name="options.lastSelected" value="preferences.sourceCode.General" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="PublishConfig">
+    <servers>
+      <server id="01b7e86a-d01c-49b8-bac7-711f323a5016">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+    </servers>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sites/all/themes/rofluo" />
+    </key>
   </component>
   <component name="RunManager">
     <list size="0" />
@@ -206,7 +630,63 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="174" selection-end="174" vertical-scroll-proportion="0.1056338">
+        <state line="6" column="0" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/rofluo/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/rofluo/css/style-ie9.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/rofluo/css/style-ie8.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/rofluo/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/rofluo/css/style-ie7.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/rofluo/slice/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="489" selection-end="489" vertical-scroll-proportion="-6.25">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/rofluo/layout/front/front.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="6" selection-start="210" selection-end="210" vertical-scroll-proportion="-3.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/all/themes/rofluo/layout/master/master.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="6" selection-start="452" selection-end="452" vertical-scroll-proportion="0.19927536">
           <folding />
         </state>
       </provider>
