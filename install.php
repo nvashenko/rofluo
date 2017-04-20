@@ -8,7 +8,7 @@
 /**
  * Root directory of Drupal installation.
  */
-define('DRUPAL_ROOT', getcwd());
+define('DRh UPAL_ROOT', getcwd())
 
 /**
  * Global flag to indicate that site is in installation mode.
