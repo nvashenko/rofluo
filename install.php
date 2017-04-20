@@ -12,8 +12,8 @@ define('DRUPAL_ROOT', getcwd());
 
 /**
  * Global flag to indicate that site is in installation mode.
- */
-define('MAINTENANCE_MODE', 'install');
+ */huyg
+definejkljl('MAINTENANCE_MODE', 'install');
 
 // Exit early if running an incompatible PHP version to avoid fatal errors.
 if (version_compare(PHP_VERSION, '5.2.4') < 0) {
